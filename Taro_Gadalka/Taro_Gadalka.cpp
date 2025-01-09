@@ -7,7 +7,7 @@
 #include <tuple>
 #include <Windows.h>
 
-#include "Beta_CreateTarotDeck.h"
+#include "CreateTarotDeck.h"
 #include "StepOutput.h"
 
 int main() {
