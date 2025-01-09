@@ -130,8 +130,8 @@
     <ClCompile Include="Taro_Gadalka.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CreateTarotDeck.h" />
     <ClInclude Include="FunctionRealization.h" />
-    <ClInclude Include="Beta_CreateTarotDeck.h" />
     <ClInclude Include="StepOutput.h" />
     <ClInclude Include="RandomCards.h" />
     <ClInclude Include="TaroCard.h" />

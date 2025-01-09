@@ -29,10 +29,10 @@
     <ClInclude Include="RandomCards.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="Beta_CreateTarotDeck.h">
+    <ClInclude Include="StepOutput.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="StepOutput.h">
+    <ClInclude Include="CreateTarotDeck.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
