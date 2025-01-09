@@ -129,6 +129,13 @@
   <ItemGroup>
     <ClCompile Include="Taro_Gadalka.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FunctionRealization.h" />
+    <ClInclude Include="Beta_CreateTarotDeck.h" />
+    <ClInclude Include="StepOutput.h" />
+    <ClInclude Include="RandomCards.h" />
+    <ClInclude Include="TaroCard.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
